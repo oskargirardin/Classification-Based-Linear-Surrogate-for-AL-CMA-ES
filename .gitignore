@@ -133,3 +133,4 @@ dmypy.json
 
 # other
 .DS_Store
+.virtual_documents
